@@ -1,0 +1,133 @@
+.navbar-nav{
+    margin-left:35%;
+    margin-top:5%;
+}
+
+.nav-item{
+    margin-left:30px;
+}
+.myself{
+    height:500px;
+    width;400px;
+    margin-left:10%;
+    margin-right:5%;
+    margin-bottom:5%;
+    border-radius:5px;
+    float:left;
+}
+.HomeText {
+    margin-top:2%;
+    width:70%;
+    margin-left:10%;
+}
+.name{
+    margin-top:5%;
+    margin-left:10%;
+}
+footer{
+    margin-top:23%;
+    margin-left:-5%;
+}
+
+.skill1{
+    height:auto;
+    width:300px;
+    margin-left:10%;
+    margin-bottom:5%;
+    margin-top:5%;
+    margin-right:10%;
+    float:left;
+}
+.skillName{
+    margin-top:5%;
+    margin-left:10%;
+    margin-right:10%;
+    padding-left:-5%;
+}
+
+.skillText{
+    margin-top:2%;
+    width:70%;
+    margin-left:10%;
+}
+
+.skill2{
+    height:450px;
+    width:300px;
+    margin-left:10%;
+    margin-right:10%;
+    
+    float:left;
+}
+.skillName2{
+    margin-top:15%;
+    margin-left:10%;
+    padding-left:-5%;
+    margin-right:10%;
+}
+.skillfooter{
+    margin-top:-5%;
+}
+.contactheading{
+    margin-top:5%;
+    margin-left:20%;
+}
+.contacttext{
+    margin-top:2%;
+    margin-left:20%;
+    width:50%;
+}
+.contactmessage{
+    margin-top:2%;
+    margin-left:20%;
+   
+}
+ .btn{
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    margin-left:1%;
+    
+
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+.socialmedia{
+    margin-left:35%;
+    margin-top:22%;
+    color:black;
+}
+.icoinsta{
+    color:black;
+    margin-right:20px;
+}
+.fiverr{
+    border-style: solid;
+    background-color:white;
+    margin-left:10px;
+    margin-bottom:0%;
+    position:relative;
+    bottom:10px;
+    color:black;
+    border-width : 1px 1px 1px 1px;
+    text-decoration : none;
+    border-radius:5px;
+    padding : 4px;
+    border-color : #000000
+}
+
+footer{
+    font-family: 'Itim', cursive;
+}
+h1{
+    font-family: 'Arvo', serif;
+    
+}
+#contactfooter{
+    margin-top:-22%;
+    margin-right:13%;
+}
